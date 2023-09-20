@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(gray,rgb(92, 92, 158),black);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+.h2{
+  font-size: 100px;
+  color: rgb(74, 24, 99);
+}
+.div1{
+  text-align: center;
+  margin-top: 5rem;
+}
+.btn{
+  margin-top: 2rem;
+  font-size: 30px;
+}
